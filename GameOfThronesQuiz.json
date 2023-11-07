@@ -1,0 +1,55 @@
+{
+  "title": "Game of Thrones Trivia",
+  "questions": [
+    {
+      "questionText": "Who is the father of Jon Snow?",
+      "choices": ["Eddard Stark", "Robert Baratheon", "Rhaegar Targaryen", "Tywin Lannister"],
+      "answer": 2
+    },
+    {
+      "questionText": "What is the name of the youngest Stark child?",
+      "choices": ["Arya", "Bran", "Rickon", "Sansa"],
+      "answer": 2
+    },
+    {
+      "questionText": "Who is known as the Kingslayer?",
+      "choices": ["Barristan Selmy", "Jaime Lannister", "Jorah Mormont", "Tywin Lannister"],
+      "answer": 1
+    },
+    {
+      "questionText": "What is the name of Daenerys Targaryen's dragon that was killed by the Night King?",
+      "choices": ["Drogon", "Rhaegal", "Viserion", "Balerion"],
+      "answer": 2
+    },
+    {
+      "questionText": "What is the name of the group of assassins that Arya Stark joins?",
+      "choices": ["Faceless Men", "Sons of the Harpy", "Golden Company", "Iron Bank"],
+      "answer": 0
+    },
+    {
+      "questionText": "Who is the rightful heir to the Iron Throne?",
+      "choices": ["Daenerys Targaryen", "Jon Snow", "Cersei Lannister", "Stannis Baratheon"],
+      "answer": 1
+    },
+    {
+      "questionText": "Who said the famous quote 'When you play the game of thrones, you win or you die.'?",
+      "choices": ["Tyrion Lannister", "Cersei Lannister", "Eddard Stark", "Petyr Baelish"],
+      "answer": 1
+    },
+    {
+      "questionText": "What is the name of the castle that serves as the headquarters of House Stark?",
+      "choices": ["Dragonstone", "Casterly Rock", "Winterfell", "The Eyrie"],
+      "answer": 2
+    },
+    {
+      "questionText": "Who is the leader of the White Walkers?",
+      "choices": ["The Night King", "The Three-Eyed Raven", "Bran Stark", "Jon Snow"],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the name of the continent where most of the events of Game of Thrones take place?",
+      "choices": ["Essos", "Westeros", "Sothoryos", "Ulthos"],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+    "title": "2022/2023 NHL Quiz",
+    "questions": [
+      {
+        "questionText": "Which team won the Stanley Cup in the 2021/2022 NHL season?",
+        "choices": ["Montreal Canadiens", "Tampa Bay Lightning", "Vegas Golden Knights", "New York Islanders"],
+        "answer": 1
+      },
+      {
+        "questionText": "Who won the Hart Memorial Trophy for the 2021/2022 NHL season?",
+        "choices": ["Connor McDavid", "Sidney Crosby", "Alex Ovechkin", "Leon Draisaitl"],
+        "answer": 0
+      },
+      {
+        "questionText": "Which team had the most points in the 2021/2022 NHL regular season?",
+        "choices": ["Colorado Avalanche", "Carolina Hurricanes", "Toronto Maple Leafs", "Vegas Golden Knights"],
+        "answer": 1
+      },
+      {
+        "questionText": "Who won the Calder Memorial Trophy for the 2021/2022 NHL season?",
+        "choices": ["Kirill Kaprizov", "Trevor Zegras", "Alex Nedeljkovic", "Jason Robertson"],
+        "answer": 0
+      },
+      {
+        "questionText": "Which team had the best power play percentage in the 2021/2022 NHL regular season?",
+        "choices": ["Boston Bruins", "Vegas Golden Knights", "Colorado Avalanche", "Toronto Maple Leafs"],
+        "answer": 2
+      },
+      {
+        "questionText": "Who won the Vezina Trophy for the 2021/2022 NHL season?",
+        "choices": ["Marc-Andre Fleury", "Andrei Vasilevskiy", "Connor Hellebuyck", "Robin Lehner"],
+        "answer": 1
+      },
+      {
+        "questionText": "Which player had the most assists in the 2021/2022 NHL regular season?",
+        "choices": ["Connor McDavid", "Leon Draisaitl", "Mitch Marner", "Nathan MacKinnon"],
+        "answer": 2
+      },
+      {
+        "questionText": "Which team had the most penalty minutes in the 2021/2022 NHL regular season?",
+        "choices": ["Philadelphia Flyers", "Anaheim Ducks", "Washington Capitals", "New York Rangers"],
+        "answer": 3
+      },
+      {
+        "questionText": "Who won the Jack Adams Award for the 2021/2022 NHL season?",
+        "choices": ["Dean Evason", "Joel Quenneville", "Rod Brind'Amour", "Alain Vigneault"],
+        "answer": 2
+      },
+      {
+        "questionText": "Which player won the Art Ross Trophy for the 2021/2022 NHL season?",
+        "choices": ["Connor McDavid", "Leon Draisaitl", "Brad Marchand", "Mitch Marner"],
+        "answer": 0
+      }
+    ]
+  }
+  

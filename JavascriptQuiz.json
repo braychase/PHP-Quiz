@@ -1,0 +1,114 @@
+{
+    "title": "JavaScript Quiz",
+    "questions": [
+      {
+        "questionText": "What is JavaScript?",
+        "choices": [
+          "A markup language",
+          "A server-side programming language",
+          "A client-side programming language",
+          "A database language"
+        ],
+        "answer": 2
+      },
+      {
+        "questionText": "What is the JavaScript file extension?",
+        "choices": [
+          ".js",
+          ".html",
+          ".css"
+        ],
+        "answer": 0
+      },
+      {
+        "questionText": "Which of the following is not a JavaScript data type?",
+        "choices": [
+          "Boolean",
+          "String",
+          "Number",
+          "Undefined"
+        ],
+        "answer": 3
+      },
+      {
+        "questionText": "What is the output of the following code? console.log(typeof null)",
+        "choices": [
+          "null",
+          "undefined",
+          "object"
+        ],
+        "answer": 2
+      },
+      {
+        "questionText": "What does the 'this' keyword refer to in JavaScript?",
+        "choices": [
+          "The current function",
+          "The global object",
+          "The parent object",
+          "The calling object"
+        ],
+        "answer": 3
+      },
+      {
+        "questionText": "What is the purpose of the 'use strict' directive in JavaScript?",
+        "choices": [
+          "To enable strict mode",
+          "To disable strict mode",
+          "To allow for backward compatibility"
+        ],
+        "answer": 0
+      },
+      {
+        "questionText": "Which of the following is not a looping structure in JavaScript?",
+        "choices": [
+          "for loop",
+          "while loop",
+          "do-while loop",
+          "if statement"
+        ],
+        "answer": 3
+      },
+      {
+        "questionText": "What is the result of the following code? console.log(1 + '2' + 3)",
+        "choices": [
+          "123",
+          "6",
+          "15"
+        ],
+        "answer": 0
+      },
+      {
+        "questionText": "What is the result of the following code? console.log(3 == '3')",
+        "choices": [
+          "true",
+          "false"
+        ],
+        "answer": 0
+      },
+      {
+        "questionText": "What is the result of the following code? console.log(3 === '3')",
+        "choices": [
+          "true",
+          "false"
+        ],
+        "answer": 1
+      },
+      {
+        "questionText": "What is the result of the following code? console.log(typeof NaN)",
+        "choices": [
+          "Number",
+          "String",
+          "NaN is not a data type"
+        ],
+        "answer": 0
+      },
+      {
+        "questionText": "What is the result of the following code? console.log(0.1 + 0.2 == 0.3)",
+        "choices": [
+          "true",
+          "false"
+        ],
+        "answer": 1
+      }
+    ]
+  }
